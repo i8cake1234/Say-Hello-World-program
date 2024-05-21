@@ -1,0 +1,14 @@
+C:\Users\0348259\ONEDRIVE - ACT Education\Programming\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\0348259\ONEDRIVE - ACT Education\Programming\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\0348259\ONEDRIVE - ACT Education\Programming\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\0348259\ONEDRIVE - ACT Education\Programming\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\0348259\ONEDRIVE - ACT Education\Programming\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\0348259\ONEDRIVE - ACT Education\Programming\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\0348259\ONEDRIVE - ACT Education\Programming\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\0348259\ONEDRIVE - ACT Education\Programming\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.formTheFirst.resources
+C:\Users\0348259\ONEDRIVE - ACT Education\Programming\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\0348259\ONEDRIVE - ACT Education\Programming\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Say Hello World.exe.config
+C:\Users\0348259\ONEDRIVE - ACT Education\Programming\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Say Hello World.exe
+C:\Users\0348259\ONEDRIVE - ACT Education\Programming\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Say Hello World.pdb
+C:\Users\0348259\ONEDRIVE - ACT Education\Programming\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Say Hello World.exe
+C:\Users\0348259\ONEDRIVE - ACT Education\Programming\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Say Hello World.pdb
